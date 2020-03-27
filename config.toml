@@ -79,7 +79,7 @@ disableLanguages        = [""]
       alt                 = "rfrk logo"
 
   [params.sidebar]
-    about               = "test"
+    about               = "Проектный офис 2020"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
@@ -326,7 +326,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "goshva/rfrk"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
