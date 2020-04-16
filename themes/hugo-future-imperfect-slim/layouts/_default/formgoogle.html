@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default "en" }}">
+  {{ partial "head" . }}
+  <body>
+    {{ partial "site-header" . }}
+    <div id="wrapper">
+      {{ partial "site-intro" . }}
+      <main id="site-main">
+        <article class="post">
+            {{ $.Scratch.Set "h1" true }}
+            {{ .Render "header" }}
+            <div id="content">
+              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe5l3U2GS9Gp5ANcFoACulkzhZSh4UKFgJZLWl7ED0EcvDL_g/viewform?embedded=true" width="640" height="3322" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+            </div>
+        </article>
+      </main>
+      {{ partial "site-sidebar" . }}
+      {{ partial "site-footer" . }}
+      {{ partial "scripts" . }}
+    </div>
+  </body>
+</html>
