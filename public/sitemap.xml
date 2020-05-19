@@ -1,9 +1,144 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rfrk.ru/blog/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/categories/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/blog/list_labcreativ_qw1_17_05/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/blog/list_labcreativ_stoun1_18_05/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%B4%D0%B5%D1%82%D0%B8/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%B4%D0%BE%D1%81%D1%83%D0%B3%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%BA%D0%B2%D0%B5%D1%81%D1%82/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%BA%D0%B2%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/blog/list_labcreativ_str1_17_05/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D1%85%D0%BE%D0%B1%D0%B1%D0%B8/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/about/card/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/blog/buhgalter/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/blog/list_test/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rfrk.ru/blog/turoperator/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%B3%D1%80%D0%B0%D0%BD%D0%B42020/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/tags/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/categories/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,6 +153,11 @@
   </url>
   
   <url>
+    <loc>https://rfrk.ru/tags/1000000000/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rfrk.ru/about/progress/</loc>
     <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -29,6 +169,11 @@
   
   <url>
     <loc>https://rfrk.ru/blog/ponyatnoe-predprinimatelstvo/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
     <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,82 +203,7 @@
   </url>
   
   <url>
-    <loc>https://rfrk.ru/tags/1000000000/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/blog/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/contact/_index.fr/</loc>
-  </url>
-  
-  <url>
     <loc>https://rfrk.ru/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://rfrk.ru/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/contact/_index.pl/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/tags/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://rfrk.ru/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/tags/%D0%B3%D1%80%D0%B0%D0%BD%D0%B42020/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/tags/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rfrk.ru/categories/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
