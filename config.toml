@@ -60,7 +60,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Региональный фонд развития курортов"
-    paragraph             = "И поддрежки гражданских инициатив"
+    paragraph             = "И поддержки гражданских инициатив"
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
