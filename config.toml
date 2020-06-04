@@ -191,19 +191,19 @@ disableLanguages        = [""]
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = "fond.rfrk"
   googleplus            = ""
   reddit                = "example"
   quora                 = ""
-  youtube               = ""
+  youtube               = "channel/UCUrmtLO5WLd2xzp0iT0bdbQ"
   vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
+  whatsapp              = "+79620009922" # WhatsApp Number
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = "fond_rfrk"
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "Fond_RFRK"
   skype                 = ""
   snapchat              = ""
   pinterest             = "example"
@@ -215,4 +215,5 @@ disableLanguages        = [""]
   keybase               = "example"
   mastodon              = "example.com/@example"
   # Email
-  email                 = "fond-rfrk@rmail.ru"
+  email                 = "rfrk26@gmail.com"
+  zen                 = "bca0b56693b4rht55f7rehz14w"
