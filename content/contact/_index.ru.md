@@ -9,6 +9,7 @@ contactsubject = "Тема"
 contactmessage = "Текст сообщения"
 contactlang = "ru"
 contactanswertime = 24
+submit = "submit"
 +++
 
 г.Кисловодск, 

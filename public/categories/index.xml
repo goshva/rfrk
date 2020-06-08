@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on РФРК - региональный фонд развития курортов</title>
@@ -6,25 +6,17 @@
     <description>Recent content in Categories on РФРК - региональный фонд развития курортов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rfrk.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Фонд</title>
+      <title>фонд</title>
       <link>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>микробизнес</title>
-      <link>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</guid>
       <description></description>
     </item>
     
@@ -38,11 +30,11 @@
     </item>
     
     <item>
-      <title>фонд</title>
-      <link>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <title>микробизнес</title>
+      <link>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</guid>
+      <guid>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</guid>
       <description></description>
     </item>
     

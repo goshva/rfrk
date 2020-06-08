@@ -1,0 +1,74 @@
+[date_format]
+  other = "January 2, 2006"
+[postreadingtime]
+  one = "за одну минуту"
+  other = "{{ .Count }} минут на прочтение"
+[recent_posts]
+  other = "Recent posts"
+[see_more]
+  other = "Раскрыть"
+[read_more]
+  other = "Подробнее"
+[categories]
+  other = "Категории"
+[category]
+  other = "Категория"
+[tags]
+  other = "Тэги"
+[tag]
+  other = "Tag"
+[uncategorized]
+  other = "Вне групп"
+[share_post]
+  other = "Поделится"
+[about]
+  other = "O"
+[learn_more]
+  other = "Learn More"
+[repliestext]
+  one = "Replies typically within 1 hour."
+  other = "Replies typically within {{ .Count }} hours."
+[submit]
+  other = "Подтверждаю"
+[404_pagenotfound]
+  other = "Страница не найдена"
+[404_sorry]
+  other = "Извините но страницу которую вы ищите и мы не можем найти."
+[404_goback]
+  other = "Вернутся"
+[blog]
+  other = "Блог"
+[contact]
+  other = "Контакты"
+[next_page]
+  other = "Следующая"
+[previous_page]
+  other = "Предыдущая"
+[attribution]
+  other = "Тема: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>"
+[comments]
+  other = "Коментарии"
+[say_sth]
+  other = "Напишите нам"
+[name]
+  other = "Ваше имя (Required)"
+[email]
+  other = "Ваша почта (Required for Gravatar)"
+[website]
+  other = "Ваш сайт"
+[body]
+  other = "Вы можете использовать Markdown (Google 'Markdown Cheat Sheet')."
+[no_comment]
+  other = "Пока ничего."
+[reply]
+  other = "Повторить"
+[btn_reset]
+  other = "Сбросить"
+[btn_submitted]
+  other = "Подтвердить"
+[btn_sumbit]
+  other = "Отправить"
+[error_msg]
+  other = "Извениете, ошибки в форме .  Пожалуйста заполните обязательные поля  и попробуйте еще раз."
+[success_msg]
+  other = "Спасибо за комментарий. Мы опубликуем его после того как прочтем сами."
