@@ -10,3 +10,13 @@ contactmessage = "Your Message"
 contactlang = "en"
 contactanswertime = 24
 +++
+
+г.Кисловодск,
+
+ул.Чайковского, д.26А,
+
+Фонд РФРК, проектный офис,
+
+телефон 8(962)000-99-22,
+
+rfrk26@gmail.com
