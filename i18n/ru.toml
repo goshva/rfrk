@@ -24,7 +24,7 @@
 [about]
   other = "O"
 [learn_more]
-  other = "Learn More"
+  other = "Подробнее"
 [repliestext]
   one = "Replies typically within 1 hour."
   other = "Replies typically within {{ .Count }} hours."
