@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>360 on РФРК - региональный фонд развития курортов</title>
+    <link>https://rfrk.ru/categories/360/</link>
+    <description>Recent content in 360 on РФРК - региональный фонд развития курортов</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rfrk.ru/categories/360/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>360°</title>
+      <link>https://rfrk.ru/blog/360/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfrk.ru/blog/360/</guid>
+      <description>Видео в формате 360° Видеосъёмка в формате 360°одно из самый интересный направлений развития видеоиндустрии. Одним из вариантов применения этой инновации мы видем виртуальные туры и экскурсии, состоящие из нескольких панорам на 360 градусов, которые связаны друг с другом посредством карты с метками. Зритель может в интерактивном режиме ориентироваться в разных сценах. Посетители виртуального тура могут самостоятельно проложить маршрут. Информационный контент для зрителя добавляются дополнительные медиафайлы: текст, изображения, звуки, музыка, видео или видео 360°.</description>
+    </item>
+    
+  </channel>
+</rss>
