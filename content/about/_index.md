@@ -34,4 +34,6 @@ date = "2020-03-03"
 * [команда фонда](/about/team)
 * [открытая информация фонда](/about/info)
 * [достижения фонда](/about/progress)
+* [ссылка Беркут](https://docs.google.com/spreadsheets/d/1WtS1OZ0s9slGalLwIiWihkEmUCzq1eaN26V7mNbT3u0/edit#gid=0)
+* [ссылка Factorio](http://192.168.0.24/Factorio_0.18.35/)
 
