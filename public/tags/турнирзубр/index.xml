@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>турнирзубр on РФРК - региональный фонд развития курортов</title>
@@ -6,10 +6,19 @@
     <description>Recent content in турнирзубр on РФРК - региональный фонд развития курортов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rfrk.ru/tags/%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80%D0%B7%D1%83%D0%B1%D1%80/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Текущие результаты турнира Зубр</title>
+      <link>https://rfrk.ru/blog/zubr/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfrk.ru/blog/zubr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Расписание</title>
@@ -17,16 +26,7 @@
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rfrk.ru/blog/5-60920/</guid>
-      <description>Турнир Зубр Расписание 5-6.09.2020    Расписание на 5 сентября     10:00 Бермамыт - Модуль 2   11:00 Водоканал - Кисловодск   12:00 Абаза - Модуль 1   13:00 Кураж - Артисты       Расписание на 6 сентября     10:00 Модуль 1 - Кисловодск   11:00 Кураж -Водоканал   12:00 Артисты - Модуль 2   13:00 Абаза - Бермамыт    </description>
-    </item>
-    
-    <item>
-      <title>Текущие результаты турнира Зубр</title>
-      <link>https://rfrk.ru/blog/zubr/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfrk.ru/blog/zubr/</guid>
-      <description></description>
+      <description> Турнир Зубр Расписание 5-6.09.2020    Расписание на 5 сентября     10:00 Бермамыт - Модуль 2   11:00 Водоканал - Кисловодск   12:00 Абаза - Модуль 1   13:00 Кураж - Артисты       Расписание на 6 сентября     10:00 Модуль 1 - Кисловодск   11:00 Кураж -Водоканал   12:00 Артисты - Модуль 2   13:00 Абаза - Бермамыт    </description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rfrk.ru/blog/300820/</guid>
-      <description>Турнир Зубр Расписание 30.08.20    Расписание на 30 августа     Команды   10:00 Абаза - Артисты   11:00 Бермамыт - Кисловодск   12:00 Модуль - Кураж   13:00 Модуль 2 - Водоканал    </description>
+      <description> Турнир Зубр Расписание 30.08.20    Расписание на 30 августа     Команды   10:00 Абаза - Артисты   11:00 Бермамыт - Кисловодск   12:00 Модуль - Кураж   13:00 Модуль 2 - Водоканал    </description>
     </item>
     
   </channel>
