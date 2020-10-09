@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on РФРК - региональный фонд развития курортов</title>
@@ -6,35 +6,31 @@
     <description>Recent content in Categories on РФРК - региональный фонд развития курортов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rfrk.ru/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rfrk.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>360</title>
-      <link>https://rfrk.ru/categories/360/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <title>спорт</title>
+      <link>https://rfrk.ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/360/</guid>
+      <guid>https://rfrk.ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>С чего всё начиналось</title>
-      <link>https://rfrk.ru/categories/%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B2%D1%81%D1%91-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%BB%D0%BE%D1%81%D1%8C/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <title>футбол</title>
+      <link>https://rfrk.ru/categories/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B2%D1%81%D1%91-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%BB%D0%BE%D1%81%D1%8C/</guid>
+      <guid>https://rfrk.ru/categories/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Фонд</title>
-      <link>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <title>туризм</title>
+      <link>https://rfrk.ru/categories/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</guid>
+      <guid>https://rfrk.ru/categories/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/</guid>
       <description></description>
     </item>
     
@@ -48,33 +44,6 @@
     </item>
     
     <item>
-      <title>да!еда</title>
-      <link>https://rfrk.ru/categories/%D0%B4%D0%B0%D0%B5%D0%B4%D0%B0/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfrk.ru/categories/%D0%B4%D0%B0%D0%B5%D0%B4%D0%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>квест</title>
-      <link>https://rfrk.ru/categories/%D0%BA%D0%B2%D0%B5%D1%81%D1%82/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfrk.ru/categories/%D0%BA%D0%B2%D0%B5%D1%81%D1%82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>кислородфм</title>
-      <link>https://rfrk.ru/categories/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D1%84%D0%BC/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfrk.ru/categories/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D1%84%D0%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>компьютерная грамотность</title>
       <link>https://rfrk.ru/categories/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
@@ -84,20 +53,29 @@
     </item>
     
     <item>
-      <title>микробизнес</title>
-      <link>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Фонд</title>
+      <link>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</guid>
+      <guid>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>понятное предпринимательство</title>
-      <link>https://rfrk.ru/categories/%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <title>С чего всё начиналось</title>
+      <link>https://rfrk.ru/categories/%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B2%D1%81%D1%91-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%BB%D0%BE%D1%81%D1%8C/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</guid>
+      <guid>https://rfrk.ru/categories/%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B2%D1%81%D1%91-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%BB%D0%BE%D1%81%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>смарт деревня</title>
+      <link>https://rfrk.ru/categories/%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfrk.ru/categories/%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F/</guid>
       <description></description>
     </item>
     
@@ -120,29 +98,47 @@
     </item>
     
     <item>
-      <title>смарт деревня</title>
-      <link>https://rfrk.ru/categories/%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <title>360</title>
+      <link>https://rfrk.ru/categories/360/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F/</guid>
+      <guid>https://rfrk.ru/categories/360/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>спорт</title>
-      <link>https://rfrk.ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <title>кислородфм</title>
+      <link>https://rfrk.ru/categories/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D1%84%D0%BC/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82/</guid>
+      <guid>https://rfrk.ru/categories/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D1%84%D0%BC/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>туризм</title>
-      <link>https://rfrk.ru/categories/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <title>микробизнес</title>
+      <link>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/</guid>
+      <guid>https://rfrk.ru/categories/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>да!еда</title>
+      <link>https://rfrk.ru/categories/%D0%B4%D0%B0%D0%B5%D0%B4%D0%B0/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfrk.ru/categories/%D0%B4%D0%B0%D0%B5%D0%B4%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>квест</title>
+      <link>https://rfrk.ru/categories/%D0%BA%D0%B2%D0%B5%D1%81%D1%82/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfrk.ru/categories/%D0%BA%D0%B2%D0%B5%D1%81%D1%82/</guid>
       <description></description>
     </item>
     
@@ -156,20 +152,11 @@
     </item>
     
     <item>
-      <title>фонд</title>
-      <link>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <title>понятное предпринимательство</title>
+      <link>https://rfrk.ru/categories/%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rfrk.ru/categories/%D1%84%D0%BE%D0%BD%D0%B4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>футбол</title>
-      <link>https://rfrk.ru/categories/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfrk.ru/categories/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB/</guid>
+      <guid>https://rfrk.ru/categories/%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/</guid>
       <description></description>
     </item>
     

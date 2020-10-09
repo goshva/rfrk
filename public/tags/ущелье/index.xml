@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ущелье on РФРК - региональный фонд развития курортов</title>
@@ -6,11 +6,7 @@
     <description>Recent content in ущелье on РФРК - региональный фонд развития курортов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rfrk.ru/tags/%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rfrk.ru/tags/%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Берёзовское ущелье</title>
       <link>https://rfrk.ru/blog/ychelie/</link>
