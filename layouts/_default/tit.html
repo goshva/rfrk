@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-image: url(/mesange.svg);
+        background-repeat:no-repeat;
+        background-position: center 14%;
+        background-color: #302d29;
+      }
+
+      /* Float four columns side by side */
+      .column {
+        float: left;
+        width: 25%;
+        padding: 10px;
+      }
+
+      /* Remove extra left and right margins, due to padding */
+      .row {margin: 0 -5px;}
+
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      /* Responsive columns */
+      @media screen and (max-width: 600px) {
+        .column {
+          width: 100%;
+          display: block;
+          margin-bottom: 20px;
+        }
+      }
+
+      /* Style the counter cards */
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        padding: 16px;
+        text-align: center;
+        background-color: #f1f1f1;
+      }
+
+      a.button4{
+      display: inline-block;
+      padding: 0.3em 1.2em;
+      margin: 0 0.1em 0.1em 0;
+      border: 0.16em solid rgba(255,255,255,0);
+      border-radius: 2em;
+      box-sizing: border-box;
+      text-decoration: none;
+      font-family: 'Roboto',sans-serif;
+      font-weight: 300;
+      color: #FFFFFF;
+      text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+      text-align: center;
+      transition: all 0.2s;
+      }
+      a.button4:hover {
+      border-color: rgba(255,255,255,1);
+      }
+      @media all and (max-width:30em){
+       a.button4{
+        display:block;
+        margin:0.2em auto;
+       }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="row">
+      <div class="column">
+        <div class="card">
+          <h1>Кормушка №<span id="number"></span></h1>
+          <p>
+            Вы попали на эту страницу отсканировав qr-код на нашей кормушке для
+            птиц
+          </p>
+          <p>
+            Тут действия которые помогут птицам оставшимся зимовать у нас
+            пережить зиму и дать потомство.
+          </p>
+          <p>
+            Волонтеры из <a href="https://rfrk.ru">фонда </a> пополняют
+            кормушки, покупают семена, а так же отмечают на сайте когда это
+            произошло. Вы тоже можете поучаствовать.
+          </p>
+          <p>
+            Вопросы и предложения принимаем на почту регионального фонда
+            <a href="mailto:rfrk26@gmail.com"
+              >Развития курортов и гражданских инициатив</a
+            >
+          </p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <h2>Насыпать корм</h2>
+          <p>В холодный период важно добавлять семена и зерна постоянно</p>
+          <a
+            id="add"
+            href="#"
+            onclick="add();return false;"
+            class="button4"
+            style="background-color: #4ef18f"
+            >Пополнил кормом</a
+          >
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <h2>Кормушка пуста</h2>
+          <p>
+            Если вы видете, что корм закончился, сообщите и волонтер наполнит.
+          </p>
+          <a
+            id="null"
+            href="#"
+            onclick="empty();return false;"
+            class="button4"
+            style="background-color: #f14e4e"
+          >
+            Пополнить кормушку
+          </a>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <h2>Подробно о проекте</h2>
+          <p>
+            Проект запущен фондом <a href="https://rfrk.ru"> РФРК </a> на
+            общественных началах
+          </p>
+          <a
+            id="more"
+            href="#more"
+            class="button4"
+            style="background-color: #4e9af1"
+            >Подробнее</a
+          >
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <h2>Кормушка рядом</h2>
+          <p>Ближайшая кормушка совсем не далеко.</p>
+          <a id="prev" href="" class="button4" style="background-color: #9a4ef1"
+            ><<<</a
+          >
+          <a id="next" href="" class="button4" style="background-color: #f14ebd"
+            >>>></a
+          >
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <h2>Кормушки на карте</h2>
+          <p>Посмотреть все кормушки на карте.</p>
+          <a href="#map" class="button4" style="background-color: #f1bb4e"
+            >Открыть на карте</a
+          >
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <h2>Дать денег</h2>
+          <p>Вы можете перевести от 10 рублей на покупку и новые кормушки.</p>
+          <a
+            href="https://rfrk.ru"
+            class="button4"
+            style="background-color: #84f14e"
+            >Поддержать рублём</a
+          >
+        </div>
+      </div>
+    </div>
+    <div id="map"></div>
+    <div id="more">Поподробнее вскоре</div>
+  </body>
+  <script
+    src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=c1564056-15e8-45bb-aa5c-a91fde9a6560"
+    type="text/javascript"
+  ></script>
+  <script>
+    let number = window.location.search.split("?")[1];
+    document.getElementById("number").innerText = number;
+    document.getElementById("prev").href = "?" + (parseInt(number) - 1);
+    document.getElementById("next").href = "?" + (parseInt(number) + 1);
+    function add() {
+      fetch(
+        "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits"
+      )
+        .then((response) => response.json())
+        //  .then(commits => alert(commits[0].author.login));
+        .then((commits) => alert("Кормушка пополнена"));
+    }
+    function empty() {
+      fetch(
+        "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits"
+      )
+        .then((response) => response.json())
+        //  .then(commits => alert(commits[0].author.login));
+        .then((commits) => alert("Высылаем волонтера"));
+    }
+  </script>
+  <script>
+    ymaps.ready(init);
+
+    function init() {
+      var myMap = new ymaps.Map(
+        "map",
+        {
+          center: [43.89645442, 42.73835063],
+          zoom: 15,
+        },
+        {
+          //     searchControlProvider: 'yandex#search'
+        }
+      );
+
+      // Создаем геообъект с типом геометрии "Точка".
+      myMap.geoObjects
+        .add(
+          new ymaps.Placemark(
+            [43.89770685, 42.73330808],
+            {
+              balloonContent: "пополнена вчера",
+              iconCaption: "1",
+            },
+            {
+              preset: "islands#blueCircleDotIconWithCaption",
+              iconCaptionMaxWidth: "50",
+            }
+          )
+        )
+        .add(
+          new ymaps.Placemark(
+            [43.89772231, 42.73446679],
+            {
+              balloonContent: "пополнена сегодня",
+              iconCaption: "2",
+            },
+            {
+              preset: "islands#blueCircleDotIconWithCaption",
+              iconCaptionMaxWidth: "50",
+            }
+          )
+        )
+        .add(
+          new ymaps.Placemark(
+            [43.89957771, 42.73963809],
+            {
+              balloonContent: "пополнена сегодня",
+              iconCaption: "3",
+            },
+            {
+              preset: "islands#blueCircleDotIconWithCaption",
+              iconCaptionMaxWidth: "50",
+            }
+          )
+        )
+        .add(
+          new ymaps.Placemark(
+            [43.89509372, 42.73693442],
+            {
+              balloonContent: "пополнена вчера",
+              iconCaption: "4",
+            },
+            {
+              preset: "islands#blueCircleDotIconWithCaption",
+              iconCaptionMaxWidth: "50",
+            }
+          )
+        );
+    }
+  </script>
+  <style>
+    html,
+    body,
+    #map {
+      width: 100%;
+      height: 100%;
+      padding: 0;
+      margin: 0;
+    }
+  </style>
+</html>
