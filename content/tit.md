@@ -1,8 +1,7 @@
 ---
 title: "Tit"
-description: "Подари подарок школьнику"
+description: "Покорми птиц зимой"
 layout: "tit"
-categories: "pricelist"
 date: 2020-11-10T10:43:13+03:00
 aliases: ["/tit/", "/tit.html"]
 ---
