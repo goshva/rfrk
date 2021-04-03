@@ -43,3 +43,139 @@ function empted() {
         })
 }
 document.getElementById("empted").addEventListener("click", empted);
+
+//yandex baloons
+ymaps.ready(init);
+
+function init() {
+  var myMap = new ymaps.Map(
+    "map",
+    {
+      center: [43.89645442, 42.73835063],
+      zoom: 15,
+    },
+    {
+      
+    }
+  );
+  myMap.geoObjects
+    .add(
+      new ymaps.Placemark(
+        [43.897302, 42.729055],
+        {
+          balloonContent: "пополнена вчера",
+          iconCaption: "43",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )
+
+    .add(
+      new ymaps.Placemark(
+        [43.935768, 42.721457],
+        {
+          balloonContent: "пополнена сегодня",
+          iconCaption: "0",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )
+    .add(
+      new ymaps.Placemark(
+        [43.896057, 42.717824],
+        {
+          balloonContent: "пополнена сегодня",
+          iconCaption: "2",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )
+    .add(
+      new ymaps.Placemark(
+        [43.88118, 42.692941],
+        {
+          balloonContent: "пополнена сегодня",
+          iconCaption: "8",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )
+//
+.add(
+      new ymaps.Placemark(
+        [43.9005,42.7376],
+        {
+          balloonContent: "пополнена сегодня",
+          iconCaption: "9",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )
+    .add(
+      new ymaps.Placemark(
+        [43.9003,42.7384],
+        {
+          balloonContent: "пополнена сегодня",
+          iconCaption: "10",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )
+    .add(
+      new ymaps.Placemark(
+        [43.9002,42.7380],
+        {
+          balloonContent: "пополнена сегодня",
+          iconCaption: "11",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )
+    .add(
+      new ymaps.Placemark(
+        [43.9002,42.7377],
+        {
+          balloonContent: "пополнена сегодня",
+          iconCaption: "12",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    )             
+    .add(
+      new ymaps.Placemark(
+        [43.941397, 42.686938],
+        {
+          balloonContent: "пополнена вчера",
+          iconCaption: "тур",
+        },
+        {
+          preset: "islands#blueCircleDotIconWithCaption",
+          iconCaptionMaxWidth: "50",
+        }
+      )
+    );
+}
