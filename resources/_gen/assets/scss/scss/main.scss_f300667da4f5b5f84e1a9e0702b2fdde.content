@@ -1215,7 +1215,6 @@ table {
   @media (min-width: 1024px) {
     #site-intro.hidden-single-column {
       display: flex; } }
-
 /* Site Main */
 /* Sidebar */
 #site-sidebar header h1 {
