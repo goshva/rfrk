@@ -63,4 +63,7 @@ type = "post"
 - 10км пешей и вело доступности ущелья
 - охват 500 000 человек
 
+![kislorodfm.ru](/img/bridge1.jpg)
+![kislorodfm.ru](/img/bridge2.png)
+![kislorodfm.ru](/img/bridge3.jpg)
 #Мосты
