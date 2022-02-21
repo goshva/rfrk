@@ -73,13 +73,13 @@ function init() {
     partset = value.split(',')
     const lat = parseFloat(partset[2].split('\"')[1]);
     const lon = parseFloat(partset[3]);
-//
-if  (number == i){
-myMap.setCenter([lat, lon], 17, {
-  checkZoomRange: true
-});
-}
-//
+    myMap.behaviors.disable('scrollZoom');
+    if  (number == i){
+      myMap.setCenter([lat, lon], 17, {
+        checkZoomRange: true
+      });
+    }
+    myMap.behaviors.disable('scrollZoom');
     myMap.geoObjects
       .add(
         new ymaps.Placemark(
